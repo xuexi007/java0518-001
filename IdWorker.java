@@ -22,6 +22,7 @@ import java.net.NetworkInterface;
  *
  * @author Polim
  */
+ //%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5我是李四，我修改了代码%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 public class IdWorker {
     // 时间起始标记点，作为基准，一般取系统的最近时间（一旦确定不能变动）
     private final static long twepoch = 1288834974657L;
